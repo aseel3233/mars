@@ -1,1 +1,1 @@
-hello
+a commit from the command line
