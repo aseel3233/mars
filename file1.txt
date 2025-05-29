@@ -1,1 +1,2 @@
 a commit from the command line
+test commits on both part 1
